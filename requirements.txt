@@ -1,2 +1,6 @@
 streamlit
 sklearn
+matplotlib
+seaborn
+pandas
+numpy
